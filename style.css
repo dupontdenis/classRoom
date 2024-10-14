@@ -1,0 +1,12 @@
+    th:nth-child(1),
+    td:nth-child(1) {
+      width: 150px;
+    }
+
+    /* .table-danger {
+      background-color: #f8d7da !important;
+    } */
+
+    .table-danger {
+      background-color: aqua;
+    }
