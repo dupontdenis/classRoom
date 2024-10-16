@@ -1,4 +1,4 @@
-import { displayStudents } from "./studentDisplay.mjs";
+  import { displayStudents } from "./studentDisplay.mjs";
 
 // Create a Map for all honours
 const honoursMap = new Map([
@@ -21,7 +21,7 @@ export function getHonour(mark) {
 }
 
 // Example usage
-const exampleMark = 12.5;
+const exampleMark = 12;
 console.log(`The honour for mark ${exampleMark} is: ${getHonour(exampleMark)}`);
 
 // Function to setup honour for students
