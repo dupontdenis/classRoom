@@ -3,9 +3,10 @@ import { displayStudents } from "./studentDisplay.mjs";
 // Create a Map for all honours
 const honoursMap = new Map([
   ["standard pass", [10, 12]],
-  ["🪛merit", [13, 15]],
-  ["🚀distinction", [16, 18]],
-  ["🥷high distinction", [18, 20]],
+  ["🪛  merit", [12, 14]],
+  ["🚀  distinction", [14, 16]],
+  ["🥷  high distinction", [16, 18]],
+  ["🧙🏼‍♂️  Summa cum laude", [18, 20]],
 ]);
 
 // Function to get the honour based on a mark
